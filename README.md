@@ -7,8 +7,6 @@
 ## Hi there 👋
 
 <p>
-  ## 👋 About Me
-
   Hi, I'm Michael Rios — a Computer Science student at Texas A&M University–Victoria and the developer behind KingNeoIV. I specialize in building standalone desktop apps with Python GUIs and C++ backends, with a focus on modular design, 
   performance, and educational impact. I’m passionate about systems-level thinking, ethical tech, and sharing my work publicly to help others learn and grow. Every project I publish reflects my journey — persistent, methodical, and 
   built from the ground up.
