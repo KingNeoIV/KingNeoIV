@@ -1,10 +1,10 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&pause=1000&width=435&lines=Welcome+to+KingNeoIV's+Laboratory" alt="Typing SVG" /></a>
+
 ## Hi there 👋
 
 <h1 style="color: royalblue;">Welcome to KingNeo's Lab</h1>
 <p>This is where I build hybrid desktop apps with Python and C++</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&pause=1000&width=435&lines=Welcome+to+KingNeoIV's+Laboratory)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&pause=1000&width=435&lines=Welcome+to+KingNeoIV's+Laboratory" alt="Typing SVG" /></a>
 <!--
 **KingNeoIV/KingNeoIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
