@@ -19,7 +19,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/MultiGame)
   ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/MultiGame)
   ![License](https://img.shields.io/github/license/KingNeoIV/MultiGame)
-  <img src="/media/tamuv/approved-logos/TAMUV-Horizontal-Wordmark-White.png" alt="Texas A&amp;M University-Victoria" class="responsive">
+ 
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
  <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" alt="My Logo" width="50"/>
- 
+ <img class="am-stickers four right right" src="/media/tamuv/TAMUVjaguar-half-right.svg" alt="">
 </div>
 
 
