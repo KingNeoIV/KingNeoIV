@@ -27,7 +27,7 @@
  <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" alt="My Logo" width="50"/>
- <img src="images/TAMUVjaguar-half-right.svg" alt="TAMU-V Logo" width="200"/>
+ <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="My Logo" width="50"/>
 
 </div>
 
