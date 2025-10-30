@@ -21,7 +21,10 @@
   ![License](https://img.shields.io/github/license/KingNeoIV/MultiGame)
 
 </div>
-https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000
+
+<img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="My Logo" width="200"/>
+
+
 
 <!--
 **KingNeoIV/KingNeoIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
