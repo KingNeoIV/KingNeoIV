@@ -16,9 +16,9 @@
 
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/MultiGame)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/MultiGame)
-  ![License](https://img.shields.io/github/license/KingNeoIV/MultiGame)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/u-sell-it)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/u-sell-it)
+  ![License](https://img.shields.io/github/license/KingNeoIV/u-sell-it)
  
 </div>
 
