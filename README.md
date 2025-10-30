@@ -33,7 +33,7 @@
 
 <div align="center">
 
- <img src="https://github.com/KingNeoIV/KingNeoIV/blob/main/assets/tamu-victoria-logo.png" width="200" alt="Texas A&M University–Victoria Logo">
+ <img src="https://github.com/KingNeoIV/KingNeoIV/blob/main/assets/Texas%20A%26M%20University.png?raw=true" width="200" alt="Texas A&M University–Victoria Logo">
  
 </div>
 
