@@ -22,7 +22,7 @@
 
 </div>
 
-<img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="My Logo" width="200"/>
+<img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="My Logo" width="100"/>
 
 
 
