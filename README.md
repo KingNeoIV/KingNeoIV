@@ -32,8 +32,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/KingNeoIV/KingNeoIV/blob/main/assets/TexasAMUniversity.png?raw=true" width="200" alt="Texas A&M University–Victoria Logo">
+  <img src="https://raw.githubusercontent.com/KingNeoIV/KingNeoIV/main/assets/TexasAMUniversity.png" width="200" alt="Texas A&M University–Victoria Logo">
 </p>
+
 
 
 
