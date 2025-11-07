@@ -30,7 +30,7 @@
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="My Logo" width="50"/>
-
+ <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="My Logo" width="50"/>
 
 </div>
 
