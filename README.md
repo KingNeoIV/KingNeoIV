@@ -28,6 +28,9 @@
  <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="My Logo" width="50"/>
+ <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="My Logo" width="50"/>
+ <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="My Logo" width="50"/>
+
 
 </div>
 
@@ -35,7 +38,6 @@
 
  <img src="https://img.icons8.com/?size=100&id=GHpPF6YPqnCO&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=XTantlC-UA3q&format=png&color=000000" alt="My Logo" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="My Logo" width="50"/>
  
 </div>
 
