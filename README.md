@@ -35,6 +35,7 @@
 
  <img src="https://img.icons8.com/?size=100&id=GHpPF6YPqnCO&format=png&color=000000" alt="My Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=XTantlC-UA3q&format=png&color=000000" alt="My Logo" width="50"/>
+ <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="My Logo" width="50"/>
  
 </div>
 
