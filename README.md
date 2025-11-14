@@ -6,12 +6,7 @@
 ## Hi there 👋
 
 <p>
-  My name is Michael Rios. I’m a Computer Science student at Texas A&M University-Victoria, and I’ve been programming for about a year. I’m still learning,
-  figuring things out as I go, and building projects that help me grow. Most of what I know comes from trial and error and a lot of curiosity.
-  Right now I’m focused on desktop apps using Python for the interface and C++ for the backend. I enjoy working with systems that feel clean and modular, 
-  even if I’m still learning how to design them well. Sharing my work helps me stay motivated and connect with others who are learning too. 
-  I’m proud of what I’ve built so far, and I’m excited to keep going.
-
+ 
 </p>
 
 <div align="center">
