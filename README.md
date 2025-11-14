@@ -6,7 +6,7 @@
 ## Hi there 👋
 
 <p>
- 
+ I'm an indie software developer building standalone applications with Python for the frontend, C++ for the backend, and SQL for the database.  
 </p>
 
 <div align="center">
