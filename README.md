@@ -9,7 +9,7 @@
  I'm an indie software developer building standalone applications with Python for the frontend, C++ for the backend, and SQL for the database.
 </p>
 <div>
- <img src="https://tenor.com/view/software-software-development-gif-24712790" alt="My Logo" width="50"/>
+ <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software Development GIF" width="50"/>
 </div>
 
 
