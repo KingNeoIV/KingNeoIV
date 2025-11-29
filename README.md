@@ -42,7 +42,7 @@ I build standalone Windows applications with Python UIs, C++ backend logic, and 
  
 </div>
 
-## 🚀 Featured Project
+## 🚀 Current Project
 
 ### [u-sell-it](https://github.com/KingNeoIV/u-sell-it)
 A standalone Windows marketplace app built with:
