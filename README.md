@@ -12,15 +12,6 @@ I build standalone Windows applications with Python UIs, C++ backend logic, and 
  <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software Development GIF" width="300"/>
 </div>
 
-
-<div align="center">
-
-  ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/u-sell-it)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/u-sell-it)
-  ![License](https://img.shields.io/github/license/KingNeoIV/u-sell-it)
- 
-</div>
-
 <div align="center">
  
  <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
@@ -51,6 +42,14 @@ A standalone Windows marketplace app built with:
 - 🗄️ **PostgreSQL on Ubuntu** for robust database management
 
 Designed for action-driven listings, secure transactions, and modular expansion.  
+
+<div align="center">
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/u-sell-it)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/u-sell-it)
+  ![License](https://img.shields.io/github/license/KingNeoIV/u-sell-it)
+ 
+</div>
 
 
 <!--
