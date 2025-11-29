@@ -25,14 +25,15 @@
  
  <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="Python Logo" width="50"/>
- <img src="https://github.com/user-attachments/assets/dfae44cf-6865-4608-974b-0da80050c62c" alt="PostgreSQL" width="50"/>
+ <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="Kali Linux" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" width="50"/>
  <img src="https://github.com/user-attachments/assets/4a8848cc-14ce-45f3-8cbd-3bb87f26672f" alt="Git" width="50"/>
 
-
+https://www.postgresql.org/media/img/about/press/elephant.png
+https://github.com/user-attachments/assets/dfae44cf-6865-4608-974b-0da80050c62c
 
 </div>
 
