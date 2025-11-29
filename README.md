@@ -6,7 +6,7 @@
 ## Hi there 👋
 
 <p>
- I'm an indie software developer building standalone applications for windows with Python for the frontend, C++ for the backend, and PostgreSQL on Ubuntu for the database server.
+ Indie software developer specializing in standalone Windows applications, using Python for UI, C++ for backend logic, and PostgreSQL on Ubuntu for database management
 </p>
 <div align="center">
  <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software Development GIF" width="300"/>
