@@ -41,7 +41,9 @@ A standalone Windows marketplace app built with:
 - ⚙️ **C++ backend logic** for secure and fast operations
 - 🗄️ **PostgreSQL on Ubuntu** for robust database management
 
-Designed for action-driven listings, secure transactions, and modular expansion.  
+🔨 Status: Early development — core login screen and backend structure in progress.  
+📅 Roadmap: Listings → Transactions → Modular expansion.
+ 
 
 <div align="center">
 
