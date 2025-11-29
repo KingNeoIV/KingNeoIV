@@ -42,7 +42,15 @@ I build standalone Windows applications with Python UIs, C++ backend logic, and 
  
 </div>
 
+## 🚀 Featured Project
 
+### [u-sell-it](https://github.com/KingNeoIV/u-sell-it)
+A standalone Windows marketplace app built with:
+- 🖥️ **Python UI** for smooth user interaction
+- ⚙️ **C++ backend logic** for secure and fast operations
+- 🗄️ **PostgreSQL on Ubuntu** for robust database management
+
+Designed for action-driven listings, secure transactions, and modular expansion.  
 
 
 <!--
