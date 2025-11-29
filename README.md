@@ -25,7 +25,7 @@
  
  <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="Python Logo" width="50"/>
- <img src="https://github.com/user-attachments/assets/4d9624c5-6844-43f1-81cf-acc64fea2cce" alt="PostgreSQL" width="50"/>
+ <img src="https://www.cleanpng.com/png-postgresql-database-logo-application-software-comp-6342288/" alt="PostgreSQL" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="Kali Linux" width="50"/>
