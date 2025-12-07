@@ -15,7 +15,7 @@ I build standalone Windows applications with Python UIs, C++ backend logic, and 
 <div align="center">
  
  <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
- <img src="https://github.com/user-attachments/assets/1ea69a10-a99b-4d1b-9afe-11b43a0c1a4f" alt="C Logo" width="50" />
+ <img src="https://github.com/user-attachments/assets/16d2d94f-092b-4c3d-a761-47cf79c91b49" alt="C Logo" width="50" />
  <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="Python Logo" width="50"/>
  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50"/>
