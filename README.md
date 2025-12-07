@@ -15,7 +15,7 @@ I build standalone Windows applications with Python UIs, C++ backend logic, and 
 <div align="center">
  
  <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
- <img src="https://github.com/user-attachments/assets/16d2d94f-092b-4c3d-a761-47cf79c91b49" alt="C Logo" width="50" />
+ <img src="https://github.com/user-attachments/assets/5e085619-da9d-40fd-b142-d07d1c8077f8" alt="C Logo" width="50" />
  <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="Python Logo" width="50"/>
  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50"/>
@@ -23,7 +23,6 @@ I build standalone Windows applications with Python UIs, C++ backend logic, and 
  <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="Kali Linux" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" width="50"/>
  <img src="https://github.com/user-attachments/assets/4a8848cc-14ce-45f3-8cbd-3bb87f26672f" alt="Git" width="50"/>
-
 
 </div>
 
