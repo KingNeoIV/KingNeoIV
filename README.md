@@ -41,7 +41,7 @@ I build standalone Windows applications with Python UIs, C++ backend logic, and 
 
 </div>
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingNeoIV&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KingNeoIV&theme=radical)
 
 ## 🚀 Current Project
 
