@@ -41,8 +41,6 @@ I build standalone Windows applications with Python UIs, C++ backend logic, and 
 
 </div>
 
-![Michael's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KingNeoIV&theme=tokyo-night)
-
 ## 🚀 Current Project
 
 ### [u-sell-it](https://github.com/KingNeoIV/u-sell-it)
