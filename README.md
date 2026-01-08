@@ -36,7 +36,7 @@ I build standalone Windows applications with Python UIs, C++ backend logic, and 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-rios-/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:Michael.rios.nw@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:mykerios361@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://www.instagram.com/kingneo361/?hl=en)
 
 </div>
