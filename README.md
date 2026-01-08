@@ -26,7 +26,7 @@ I design systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS<
  <!-- Tech Icons -->
  <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="Python Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="React Logo" width="50"/>
+ <img src="https://github.com/user-attachments/assets/36f6ab11-f537-4e76-bfd6-ed42a51fb9fb" alt="React Logo" width="50"/>
  <img src="https://github.com/user-attachments/assets/9effbfb6-dcd2-4d33-9861-b1849e970e9b" alt="TypeScript Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50"/>
  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
@@ -34,6 +34,7 @@ I design systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS<
  <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" width="50"/>
  <img src="https://github.com/user-attachments/assets/4a8848cc-14ce-45f3-8cbd-3bb87f26672f" alt="Git" width="50"/>
+
 
 </div>
 
