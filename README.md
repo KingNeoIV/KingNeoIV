@@ -7,7 +7,7 @@
 ## Hi there 👋
 
 <p>
-I'm a full‑stack developer building modern, cross‑platform applications using <b>FastAPI</b>, <b>React</b>, <b>PostgreSQL</b>, and <b>Docker</b> — while still maintaining my roots in <b>Python</b>, <b>C++</b>, and <b>desktop application development</b>.
+I'm a indie full‑stack developer building modern, cross‑platform applications using <b>FastAPI</b>, <b>React</b>, <b>PostgreSQL</b>, and <b>Docker</b> — while still maintaining my roots in <b>Python</b>, <b>C++</b>, and <b>desktop application development</b>.
 </p>
 
 <p>
