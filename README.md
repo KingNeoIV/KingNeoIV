@@ -21,32 +21,62 @@ I design systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS<
 
 ---
 
+<!-- ===================== -->
+<!--     TECH STACK        -->
+<!-- ===================== -->
+
 <div align="center">
 
- <!-- Tech Icons -->
- <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="Python Logo" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
- <img src="https://github.com/user-attachments/assets/36f6ab11-f537-4e76-bfd6-ed42a51fb9fb" alt="React Logo" width="50"/>
- <img src="https://github.com/user-attachments/assets/9effbfb6-dcd2-4d33-9861-b1849e970e9b" alt="TypeScript Logo" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50"/>
- <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
- <img src="https://github.com/user-attachments/assets/32d9e4dc-a495-4f9e-9b87-429464cbe8ee" alt="Docker Logo" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" width="50"/>
- <img src="https://github.com/user-attachments/assets/4a8848cc-14ce-45f3-8cbd-3bb87f26672f" alt="Git" width="50"/>
+<h3>🧰 Tech Stack</h3>
+
+<img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="Python Logo" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
+<img src="https://github.com/user-attachments/assets/36f6ab11-f537-4e76-bfd6-ed42a51fb9fb" alt="React Logo" width="50"/>
+<img src="https://github.com/user-attachments/assets/9effbfb6-dcd2-4d33-9861-b1849e970e9b" alt="TypeScript Logo" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50"/>
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
+<img src="https://github.com/user-attachments/assets/32d9e4dc-a495-4f9e-9b87-429464cbe8ee" alt="Docker Logo" width="50"/>
+<img src="https://github.com/user-attachments/assets/4a8848cc-14ce-45f3-8cbd-3bb87f26672f" alt="Git" width="50"/>
 
 </div>
 
 ---
 
+<!-- ===================== -->
+<!--   OPERATING SYSTEMS   -->
+<!-- ===================== -->
+
 <div align="center">
 
- <img src="https://img.icons8.com/?size=100&id=GHpPF6YPqnCO&format=png&color=000000" alt="USA Flag" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=XTantlC-UA3q&format=png&color=000000" alt="Texas Flag" width="50"/>
+<h3>🖥️ Operating Systems</h3>
+
+<img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Windows Logo" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" alt="macOS Logo" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=31085&format=png&color=000000" alt="iOS Logo" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="Android Logo" width="50"/>
+
+</div>
+
+---
+
+<!-- ===================== -->
+<!--   LOCATION & SOCIAL   -->
+<!-- ===================== -->
+
+<div align="center">
+
+<h3>📍 Location</h3>
+
+<img src="https://img.icons8.com/?size=100&id=GHpPF6YPqnCO&format=png&color=000000" alt="USA Flag" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=XTantlC-UA3q&format=png&color=000000" alt="Texas Flag" width="50"/>
 
 </div>
 
 <div align="center">
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-rios-/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:mykerios361@gmail.com)
