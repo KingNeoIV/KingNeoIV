@@ -27,8 +27,6 @@ I design systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS<
 
 <div align="center">
 
-<h3>🧰 Tech Stack</h3>
-
 <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="Python Logo" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
 <img src="https://github.com/user-attachments/assets/36f6ab11-f537-4e76-bfd6-ed42a51fb9fb" alt="React Logo" width="50"/>
@@ -48,8 +46,6 @@ I design systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS<
 
 <div align="center">
 
-<h3>🖥️ Operating Systems</h3>
-
 <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" width="50"/>
 <img src="https://github.com/user-attachments/assets/f16f5394-3f5a-44f1-ac11-5ccce13964f5" alt="Windows Logo" width="50"/>
@@ -67,8 +63,6 @@ I design systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS<
 <!-- ===================== -->
 
 <div align="center">
-
-<h3>📍 Location</h3>
 
 <img src="https://img.icons8.com/?size=100&id=GHpPF6YPqnCO&format=png&color=000000" alt="USA Flag" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=XTantlC-UA3q&format=png&color=000000" alt="Texas Flag" width="50"/>
