@@ -27,7 +27,7 @@ I design systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS<
  <img src="https://img.icons8.com/?size=100&id=6DuoGHb03MQm&format=png&color=000000" alt="Python Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=mciovJOS9Auv&format=png&color=000000" alt="C++ Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="React Logo" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="TypeScript Logo" width="50"/>
+ <img src="https://github.com/user-attachments/assets/9effbfb6-dcd2-4d33-9861-b1849e970e9b" alt="TypeScript Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50"/>
  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Docker Logo" width="50"/>
