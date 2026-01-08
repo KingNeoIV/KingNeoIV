@@ -52,12 +52,13 @@ I design systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS<
 
 <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" width="50"/>
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Windows Logo" width="50"/>
-<img src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" alt="macOS Logo" width="50"/>
-<img src="https://img.icons8.com/?size=100&id=31085&format=png&color=000000" alt="iOS Logo" width="50"/>
+<img src="https://github.com/user-attachments/assets/f16f5394-3f5a-44f1-ac11-5ccce13964f5" alt="Windows Logo" width="50"/>
+<img src="https://github.com/user-attachments/assets/de3eb60a-e0b3-4fb1-8fbf-038439ef50c0" alt="macOS Logo" width="50"/>
+<img src="https://github.com/user-attachments/assets/db8872f2-5560-48ed-ab45-707a12c54a21" alt="iOS Logo" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="Android Logo" width="50"/>
 
 </div>
+
 
 ---
 
