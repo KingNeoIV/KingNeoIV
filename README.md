@@ -30,11 +30,10 @@ I design systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS<
  <img src="https://github.com/user-attachments/assets/9effbfb6-dcd2-4d33-9861-b1849e970e9b" alt="TypeScript Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" width="50"/>
  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
- <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="Docker Logo" width="50"/>
+ <img src="https://github.com/user-attachments/assets/32d9e4dc-a495-4f9e-9b87-429464cbe8ee" alt="Docker Logo" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" alt="Linux" width="50"/>
  <img src="https://img.icons8.com/?size=100&id=jboFV8ZOXgZR&format=png&color=000000" alt="Ubuntu" width="50"/>
  <img src="https://github.com/user-attachments/assets/4a8848cc-14ce-45f3-8cbd-3bb87f26672f" alt="Git" width="50"/>
-
 
 </div>
 
