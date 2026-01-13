@@ -1,5 +1,5 @@
 <div>
- <p align="center"> <img src="assets/KingNeoIV_Branding.png" alt="KingNeoIV Logo" width="200"/> </p>
+ <p align="center"> <img src="assets/KingNeoIV_Branding.png" alt="KingNeoIV Logo" width="300"/> </p>
 </div>
 
 ## Hi there 👋
