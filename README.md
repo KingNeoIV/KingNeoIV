@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg" style="padding-left:40px; display:inline-block;"> <img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=21A910&width=435&lines=Welcome+to+KingNeoIV's+Laboratory" alt="Typing SVG" /> </a>
+<a href="https://git.io/typing-svg" style="padding-left:100px; display:inline-block;"> <img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=21A910&width=435&lines=Welcome+to+KingNeoIV's+Laboratory" alt="Typing SVG" /> </a>
 </div>
 <div>
  <p align="center"> <img src="assets/KingNeoIV_Branding.png" alt="KingNeoIV Logo" width="200"/> </p>
