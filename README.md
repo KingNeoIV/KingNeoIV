@@ -28,6 +28,7 @@ I design and engineer systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
 <img src="https://github.com/user-attachments/assets/32d9e4dc-a495-4f9e-9b87-429464cbe8ee" alt="Docker Logo" width="50"/>
 <img src="https://github.com/user-attachments/assets/4a8848cc-14ce-45f3-8cbd-3bb87f26672f" alt="Git" width="50"/>
+<img src="https://www.flaticon.com/free-icon/html_1051277?term=html&related_id=1051277" alt="Git" width="50"/>
 
 </div>
 
