@@ -29,6 +29,8 @@ I design and engineer systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux
 <img src="https://github.com/user-attachments/assets/32d9e4dc-a495-4f9e-9b87-429464cbe8ee" alt="Docker Logo" width="50"/>
 <img src="https://github.com/user-attachments/assets/4a8848cc-14ce-45f3-8cbd-3bb87f26672f" alt="Git Logo" width="50"/>
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML Logo" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=k0mhEXozIpG1&format=png&color=000000" alt="JavaScript Logo" width="50">
+<img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" alt="CSS Logo" width="50">
 
 </div>
 
