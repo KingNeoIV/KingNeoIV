@@ -77,26 +77,53 @@ I design and engineer systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux
 
 ---
 
-## 🚀 Current Project
+## 🚀 Featured Project
+
+### [PulseCheck](https://pulsecheck.digital) — Live SaaS Product
+
+A live, production cron job and scheduled task monitoring platform, built and shipped under my company, NeoIV Tech Solutions:
+
+- ⚡ **FastAPI backend** with a **React + TypeScript** frontend
+- 🐘 **PostgreSQL database**
+- 💳 **Stripe billing** — free tier alongside paid plans
+- 📡 **HTTP ping-based heartbeat monitoring** with instant email alerts on missed check-ins
+
+🟢 **Status:** Live in production at [pulsecheck.digital](https://pulsecheck.digital)
+
+---
+
+## 💼 Client Work
+
+### [Toro Welding & Fabrication](https://toro-welding.com/)
+
+A business website built for a local welding and fabrication company (Ingleside, TX), delivered from client scope through launch.
+
+- ⚡ **React + TypeScript + Tailwind CSS**
+- 🖼️ Featured-work gallery, services capability breakdown, live Instagram feed, click-to-call contact
+
+---
+
+## 🔧 Other Projects
 
 ### [u-sell-it](https://github.com/KingNeoIV/u-sell-it)
 
-A modern, cross‑platform marketplace ecosystem built with:
-
-- ⚡ **FastAPI backend** (JWT auth, SQLAlchemy 2.0, PostgreSQL)
-- 🎨 **React + TypeScript frontend** (active development)
-- 🐘 **PostgreSQL database** (Dockerized)
-- 📱 **Future iOS + Android clients**
-- 🖥️ **Future macOS + Windows desktop clients**
-- 🧩 **Legacy PyQt6 + C++ desktop prototype preserved**
-
-🔨 **Status:** Backend complete • Frontend authentication in progress  
-📅 **Roadmap:** Backend → Frontend → Mobile → Desktop → Deployment
+A cross-platform marketplace ecosystem — FastAPI backend, React + TypeScript frontend, PostgreSQL, Docker. Backend complete, frontend in active development.
 
 <div align="center">
 
   ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/u-sell-it)
   ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/u-sell-it)
   ![License](https://img.shields.io/github/license/KingNeoIV/u-sell-it)
+
+</div>
+
+### [Space Cowboy: Galactic Run](https://github.com/KingNeoIV/Space_Cowboy_-_Galactic_Run)
+
+A 2D space-western hybrid arcade shooter built in C# with Raylib — modular gameplay systems, rendering, and enemy logic. Core systems implemented, additional levels in progress.
+
+<div align="center">
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/Space_Cowboy_-_Galactic_Run)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/Space_Cowboy_-_Galactic_Run)
 
 </div>
