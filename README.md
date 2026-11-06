@@ -8,10 +8,6 @@ I'm an indie full‑stack developer building modern, cross‑platform applicatio
 I design and engineer systems that run on <b>Windows</b>, <b>macOS</b>, <b>Linux</b>, <b>iOS</b>, and <b>Android</b>, with a focus on clean architecture, modular design, and production‑ready engineering.
 </p>
 
-<div align="center">
- <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif" alt="Software Development GIF" width="300"/>
-</div>
-
 ---
 
 <!-- ===================== -->
