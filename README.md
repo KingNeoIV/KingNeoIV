@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+You can visit my portfolio website at [michaelrios.dev](https://michaelrios.dev/)
+
 <p>
 I'm an indie full‑stack developer building modern, cross‑platform applications using <b>FastAPI</b>, <b>React + TypeScript</b>, <b>PostgreSQL</b>, and <b>Docker</b> — while still maintaining my roots in <b>Python</b>, <b>C++</b>, and <b>desktop application development</b>.
 </p>
@@ -97,7 +99,7 @@ A business website built for a local welding and fabrication company (Ingleside,
 - ⚡ **React + TypeScript + Tailwind CSS**
 - 🖼️ Featured-work gallery, services capability breakdown, live Instagram feed, click-to-call contact
 
-🟢 **Status:** Live in at [toro-welding.com](https://toro-welding.com)
+🟢 **Status:** Live in [toro-welding.com](https://toro-welding.com)
 
 ---
 
