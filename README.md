@@ -99,7 +99,7 @@ A business website built for a local welding and fabrication company (Ingleside,
 - ⚡ **React + TypeScript + Tailwind CSS**
 - 🖼️ Featured-work gallery, services capability breakdown, live Instagram feed, click-to-call contact
 
-🟢 **Status:** Live in [toro-welding.com](https://toro-welding.com)
+🟢 **Status:** Live at [toro-welding.com](https://toro-welding.com)
 
 ---
 
