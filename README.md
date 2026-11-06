@@ -99,27 +99,18 @@ A business website built for a local welding and fabrication company (Ingleside,
 
 ---
 
-## 🔧 Other Projects
+## 🔧 Currently Building
 
-### [u-sell-it](https://github.com/KingNeoIV/u-sell-it)
+### [PhoenixOS and Shia16](https://github.com/KingNeoIV/phoenix-os)
 
-A cross-platform marketplace ecosystem — FastAPI backend, React + TypeScript frontend, PostgreSQL, Docker. Backend complete, frontend in active development.
+A learning project: building an operating system and programming language from scratch as a beginner.
 
-<div align="center">
-
-  ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/u-sell-it)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/u-sell-it)
-  ![License](https://img.shields.io/github/license/KingNeoIV/u-sell-it)
-
-</div>
-
-### [Space Cowboy: Galactic Run](https://github.com/KingNeoIV/Space_Cowboy_-_Galactic_Run)
-
-A 2D space-western hybrid arcade shooter built in C# with Raylib — modular gameplay systems, rendering, and enemy logic. Core systems implemented, additional levels in progress.
+🟡 **Status:** Design phase. First milestone is a boot sector that prints a letter in QEMU.
 
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/Space_Cowboy_-_Galactic_Run)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/Space_Cowboy_-_Galactic_Run)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/KingNeoIV/phoenix-os)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/KingNeoIV/phoenix-os)
+  ![License](https://img.shields.io/github/license/KingNeoIV/phoenix-os)
 
 </div>
